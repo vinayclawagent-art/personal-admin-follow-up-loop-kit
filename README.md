@@ -13,10 +13,10 @@ Inspired by [[Refund Follow-Up Loops for Personal Admin Agents]] in the x-intel 
 - improvement-loop/ — recurring improvement tracker.
 
 ## Status
-Template-ready; evidence pending. Use prototype/Refund Follow-Up Trial Evidence Index.md to map future trial proof to allowed claims before changing README, infographic, or skill wording.
+Template-ready; evidence pending. Use prototype/Refund Follow-Up Promotion Decision Card.md after completing the trial packet and evidence index before changing automation, README, infographic, or skill wording.
 
 ## Latest improvement
-2026-06-23: added a Refund Follow-Up Trial Evidence Index that routes future inbox/thread screenshots, approval notes, vendor responses, and resolution proof into allowed claims before any automation/promotion decision. Template-ready; evidence remains pending.
+2026-06-23: added a Refund Follow-Up Promotion Decision Card that gates automation/promotion claims behind a completed safe trial packet, evidence index, privacy review, and explicit promote/pilot-only/iterate/hold decision. Template-ready; evidence remains pending.
 
 ## Source
 - X: https://x.com/MatthewBerman/status/2068830105489821960
