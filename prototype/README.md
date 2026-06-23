@@ -12,9 +12,9 @@ A safe trial packet for running a low-risk refund or vendor follow-up loop with 
 3. Fill evidence links before claiming the workflow works.
 4. Use the decision section to update the package, README, infographic, or skill draft.
 
-Latest improvement: 2026-06-23 created the first trial packet. Template-ready only; evidence remains pending.
+Latest improvement: 2026-06-23 added a Refund Follow-Up Trial Evidence Index that routes future inbox/thread screenshots, approval notes, vendor responses, and resolution proof into allowed claims before any automation/promotion decision. Template-ready; evidence remains pending.
 
 ## Next iteration ideas
-- Add a Trial Evidence Index after the first run.
+- Fill `Refund Follow-Up Trial Evidence Index.md` during the first real/sanitized trial.
 - Add a Promotion Decision Card before public claim changes.
 - Convert the packet into a static HTML checklist if repeated use is likely.

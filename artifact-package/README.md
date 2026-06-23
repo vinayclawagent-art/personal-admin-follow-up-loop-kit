@@ -23,6 +23,7 @@ Refund follow-ups are a concrete wedge for useful personal agents: persistence, 
 ## Generated artifacts
 - Prototype: [[Artifacts/Prototypes/Personal Admin Follow-Up Loop Kit/Refund Follow-Up Trial Packet.md|Refund Follow-Up Trial Packet]]
 - Prototype README: [[Artifacts/Prototypes/Personal Admin Follow-Up Loop Kit/README.md]]
+- Evidence index: [[Artifacts/Prototypes/Personal Admin Follow-Up Loop Kit/Refund Follow-Up Trial Evidence Index.md|Refund Follow-Up Trial Evidence Index]]
 - Infographic: [[Artifacts/Infographics/Personal Admin Follow-Up Loop Kit/personal-admin-follow-up-loop.md|Personal Admin Follow-Up Loop]]
 - Skill draft: [[Artifacts/Skills/personal-admin-follow-up-loops/SKILL.md|Personal Admin Follow-Up Loops]]
 - Improvement loop: [[Personal Admin Follow-Up Loop Kit Loop]]
@@ -42,10 +43,11 @@ Draft skill `personal-admin-follow-up-loops` is package-local for now; promote o
 ## Improvement backlog
 - [x] Create package, prototype, infographic, skill draft, improvement loop, and GitHub mirror.
 - [ ] Run one real/sanitized trial and fill the prototype packet with evidence.
-- [ ] Add a trial evidence index if the first run produces multiple proof artifacts.
-- [ ] Complete a promotion decision card before changing public claims or promoting the skill.
+- [x] Add `Refund Follow-Up Trial Evidence Index.md` to route future proof into safe README/prototype/skill claims.
+- [ ] Complete a Promotion Decision Card before changing public claims or promoting the skill.
 
 ## Change log
+- 2026-06-23: Added [[Artifacts/Prototypes/Personal Admin Follow-Up Loop Kit/Refund Follow-Up Trial Evidence Index.md|Refund Follow-Up Trial Evidence Index]] so future trial proof maps to allowed claims before promotion. Evidence remains pending.
 - 2026-06-23: Created artifact package, prototype packet, infographic, package-local skill draft, improvement loop, and GitHub repo mirror. Artifacts are template-ready; no validation proof claimed.
 
 ## Original source
